@@ -166,3 +166,6 @@ chinese-bert-wwm/
 data/train_with_mid.json
 
 output/
+
+test.sh
+train.sh
